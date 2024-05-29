@@ -1,1 +1,5 @@
 # Loan-Default-Prediction-Dataset
+
+¿Se puede predecir quién dejará de pagar sus préstamos?
+Los servicios de préstamos financieros son utilizados por una amplia gama de empresas en diversas industrias, desde grandes bancos e instituciones financieras hasta préstamos gubernamentales. Uno de los objetivos principales de las compañías que ofrecen préstamos es reducir los impagos y garantizar que las personas paguen sus préstamos según lo acordado. Para lograr esto de manera eficiente y sistemática, muchas compañías emplean el aprendizaje automático para predecir qué individuos tienen mayor riesgo de incumplir con sus pagos. De esta forma, se pueden implementar intervenciones adecuadas y dirigidas al público con mayor riesgo.
+Este conjunto de datos proviene del "Desafío de predicción de morosidad de préstamos" de Coursera y te brindará la oportunidad de abordar uno de los problemas de aprendizaje automático más relevantes para la industria. Se trata de un conjunto de datos único que pondrá a prueba tus habilidades de modelado. El conjunto de datos contiene un total de 255,347 filas y 18 columnas.
